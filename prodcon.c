@@ -39,6 +39,7 @@ typedef struct input {
     int len;
     int dataIndex;
     int chunks;
+}
 
 input;
 typedef struct received {
